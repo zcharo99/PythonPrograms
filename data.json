@@ -1,0 +1,66 @@
+{
+	"options1": {
+		"1": [
+			"sudo apt-get install alacritty",
+			"sudo pacman -S alacritty",
+			"sudo dnf install alacritty"
+		],
+		"2": [
+			"sudo apt-get install st",
+			"sudo pacman -S st",
+			"sudo dnf install st"
+		],
+		"3": [
+			"sudo apt-get install st",
+			"sudo pacman -S st",
+			"sudo dnf install st"
+		],
+		"4": [
+			"sudo apt-get install gnome-terminal",
+			"sudo pacman -S gnome-terminal",
+			"sudo dnf install gnome-terminal"
+		],
+		"5": [
+			"sudo apt-get install konsole",
+			"sudo pacman -S konsole",
+			"sudo dnf install konsole"
+		]
+	},
+	"options2": {
+		"1": [
+			"sudo apt-get install xorg-server",
+			"sudo pacman -S xorg-server",
+			"sudo dnf install xorg-server"
+		],
+		"2": [
+			"sudo apt-get install kde-plasma",
+			"sudo pacman -S kde-plasma",
+			"sudo dnf install kde-plasma"
+		],
+		"3": [
+			"sudo apt-get install gnome",
+			"sudo pacman -S gnome",
+			"sudo dnf install gnome"
+		],
+		"4": [
+			"sudo apt-get install qtile",
+			"sudo pacman -S qtile",
+			"sudo dnf install qtile"
+		],
+		"5": [
+			"sudo apt-get install hyprland",
+			"sudo pacman -S hyprland",
+			"sudo dnf install hyprland"
+		],
+		"6": [
+			"sudo apt-get install i3",
+			"sudo pacman -S i3",
+			"sudo dnf install i3"
+		],
+		"7": [
+			"sudo apt-get install bspwm sxhkd",
+			"sudo pacman -S bspwm sxhkd",
+			"sudo dnf install bspwm sxhkd"
+		]
+	}
+}
